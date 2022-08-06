@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html>
+<!-- nikissan silva pereira turma 1-->
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Travel webpage</title>
+    </head>
+    
+    <style>
+    .txt{
+        color:rgb(0, 0, 0);
+    }
+    li{
+        color:rgb(0, 0, 0);
+        font-family: "Helvetica", sans-serif;
+    }
+    h1{
+        color: rgb(180, 0, 0);
+        font-family: "Helvetica", sans-serif;
+    }
+    body{background-color: rgb(255, 239, 233);}
+    
+    p{font-size: 1.5em;
+    color: black; font-style: oblique;}
+    
+    table{font-size: 1.7em;
+    color: black;}
+
+    ul{font-size: 1.3em;
+    color: black;}
+
+        
+    </style>
+    <body>
+    
+        <h1>Travel to your dream </h1>
+        <h2>Encontre os melhores voos</h2>
+        <p class="txt"><strong>Viagens com Crianças e Bebês de colo</strong><br>
+Aqui tem tudo o que você precisa saber sobre<br> compra de passagens, documentos e check-in para<br> menores de idade acompanhados e desacompanhados.</p>
+
+<p class="txt"><strong>Meios de Pagamento</strong><br>
+Conheça as diversas opções de pagamento e<br> parcelamento para garantir a sua viagem. Veja as informações e regras.</p>
+<img src=https://soubh.uai.com.br/uploads/post/image/13270/main_EAFO.jpg alt="representação de um ponto turistico de Belo Horizonte">
+
+<h3>Conheça nossos planos</h3>
+<ul>
+    <li>Porto-Alegre(POA)-R$444,95
+    <li>Belo Horizonte (CNF)-R$444,95
+    <li>Rio de Janeiro (SDU)-R$ 438,83
+    <li>Campinas (VCP)-R$ 438,83
+</ul>
+<p> Saiba mais em :<a target="blank" href="https://www.voegol.com.br/?gclid=EAIaIQobChMIsJLOtNal-AIVFEJIAB2zIg5CEAAYASAAEgI1a_D_BwE&gclsrc=aw.ds">https://www.voegol.com.br</a>
+</p>
+        <p>Voe pra Belo Horizonte pela <em>Travel to your dream</em> e descubra as belezas que somente o Brasil pode proporcionar
+Repleta de pontos turísticos, Belo Horizonte abriga a Lagoa da Pampulha, o Mirante do Mangabeiras e belos museus.
+</p>
+
+<table> 
+    <thead>
+        <tr>
+            <th>Viagem</th>
+            <th>Avaliação</th>
+            <th>Ida e  volta</th>
+        </tr>
+        <tr>
+            <td>Belo Horizonte (CNF)</td>
+             <td>4.2</td>
+             <td>Ida
+             
+        </tr>
+        <tr>
+            <td>Rio de Janeiro (SDU)</td>
+             <td>4.0</td>
+             <td>Ida e volta
+             
+        </tr>
+        <tr>
+            <td>Porto-Alegre(POA)</td>
+             <td>4.2</td>
+             <td>Ida
+             
+        </tr>
+        <tr>
+            <td>Campinas (VCP)</td>
+             <td>4.2</td>
+             <td>Ida
+             
+        </tr>
+        <tr>
+            <td>São Paulo(SP)</td>
+             <td>4.5</td>
+             <td>Ida
+             
+        </tr>
+    </thead>
+</table>
+<table>
+    <thead>
+        <tr>
+            <th>Viagem</th>
+            <th>Avaliação</th>
+            <th>Numeros de Buscas</th>
+        </tr>
+        <tr>
+            <td>São Paulo(SP)</td>
+             <td>4.2</td>
+             <td>295,508
+             
+        </tr>
+        <tr>
+            <td>Rio de Janeiro (SDU)</td>
+             <td>4.0</td>
+             <td>90,368 
+             
+        </tr>
+        <tr>
+            <td>Porto-Alegre(POA)</td>
+             <td>4.2</td>
+             <td>80,568 
+             
+        </tr>
+        <tr>
+            <td>Campinas (VCP)</td>
+             <td>4.2</td>
+             <td>62,588 
+             
+        </tr>
+        <tr>
+            <td>Belo Horizonte (CNF)</td>
+             <td>4.5</td>
+             <td>45,748 
+             
+        </tr>
+    </thead>
+</table>
+</body>
+</html>
